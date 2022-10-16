@@ -1,0 +1,1535 @@
+{
+  "__type__": "Deck",
+  "children": [],
+  "crowdanki_uuid": "34585694-87ef-11ec-99f6-6d42315f0208",
+  "deck_config_uuid": "34585695-87ef-11ec-99f6-6d42315f0208",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "autoplay": true,
+      "crowdanki_uuid": "34585695-87ef-11ec-99f6-6d42315f0208",
+      "dyn": false,
+      "interdayLearningMix": 0,
+      "lapse": {
+        "delays": [
+          10.0
+        ],
+        "leechAction": 1,
+        "leechFails": 8,
+        "minInt": 1,
+        "mult": 0.0
+      },
+      "maxTaken": 60,
+      "name": "Default",
+      "new": {
+        "bury": false,
+        "delays": [
+          1.0,
+          10.0
+        ],
+        "initialFactor": 2500,
+        "ints": [
+          1,
+          4,
+          0
+        ],
+        "order": 1,
+        "perDay": 20
+      },
+      "newGatherPriority": 0,
+      "newMix": 0,
+      "newPerDayMinimum": 0,
+      "newSortOrder": 0,
+      "replayq": true,
+      "rev": {
+        "bury": false,
+        "ease4": 1.3,
+        "hardFactor": 1.2,
+        "ivlFct": 1.0,
+        "maxIvl": 36500,
+        "perDay": 200
+      },
+      "reviewOrder": 0,
+      "timer": 0
+    }
+  ],
+  "desc": "Please see the <a href='https://ankiweb.net/shared/info/853054798'>shared deck page</a> for more info.",
+  "dyn": 0,
+  "extendNew": 0,
+  "extendRev": 0,
+  "media_files": [
+    "A an.mp3",
+    "I.mp3",
+    "after.mp3",
+    "again.mp3",
+    "all.mp3",
+    "almost.mp3",
+    "also.mp3",
+    "always.mp3",
+    "am.mp3",
+    "and.mp3",
+    "because.mp3",
+    "before.mp3",
+    "big.mp3",
+    "but.mp3",
+    "can.mp3",
+    "come.mp3",
+    "either.mp3",
+    "find.mp3",
+    "first.mp3",
+    "for.mp3",
+    "friend.mp3",
+    "from.mp3",
+    "go.mp3",
+    "good.mp3",
+    "goodbye.mp3",
+    "happy.mp3",
+    "have.mp3",
+    "he.mp3",
+    "hello.mp3",
+    "here.mp3",
+    "how.mp3",
+    "if.mp3",
+    "in.mp3",
+    "know.mp3",
+    "last.mp3",
+    "like.mp3",
+    "little.mp3",
+    "love.mp3",
+    "make.mp3",
+    "many.mp3",
+    "more.mp3",
+    "most.mp3",
+    "much.mp3",
+    "my.mp3",
+    "new.mp3",
+    "no.mp3",
+    "not.mp3",
+    "now.mp3",
+    "of.mp3",
+    "often.mp3",
+    "on.mp3",
+    "one.mp3",
+    "only.mp3",
+    "or.mp3",
+    "other.mp3",
+    "our.mp3",
+    "out.mp3",
+    "over.mp3",
+    "people.mp3",
+    "place.mp3",
+    "please.mp3",
+    "same.mp3",
+    "see.mp3",
+    "she.mp3",
+    "so.mp3",
+    "some.mp3",
+    "sometimes.mp3",
+    "still.mp3",
+    "such.mp3",
+    "tell.mp3",
+    "thank you.mp3",
+    "that.mp3",
+    "the.mp3",
+    "their.mp3",
+    "them.mp3",
+    "then.mp3",
+    "there is.mp3",
+    "they.mp3",
+    "thing.mp3",
+    "think.mp3",
+    "this.mp3",
+    "time.mp3",
+    "to.mp3",
+    "under.mp3",
+    "up.mp3",
+    "us.mp3",
+    "use.mp3",
+    "very.mp3",
+    "we.mp3",
+    "what.mp3",
+    "when.mp3",
+    "where.mp3",
+    "which.mp3",
+    "who.mp3",
+    "why.mp3",
+    "with.mp3",
+    "yes.mp3",
+    "you.mp3",
+    "your.mp3"
+  ],
+  "name": "100 Most Common English Words for Spanish Jaime P",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+      "flds": [
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Front",
+          "ord": 0,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Back",
+          "ord": 1,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Audio",
+          "ord": 2,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Phonetic (Spanish)",
+          "ord": 3,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        },
+        {
+          "font": "Arial",
+          "media": [],
+          "name": "Translation",
+          "ord": 4,
+          "rtl": false,
+          "size": 20,
+          "sticky": false
+        }
+      ],
+      "latexPost": "\\end{document}",
+      "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+      "latexsvg": false,
+      "name": "Basic-951d2",
+      "req": [
+        [
+          0,
+          "any",
+          [
+            0
+          ]
+        ]
+      ],
+      "sortf": 0,
+      "tags": [],
+      "tmpls": [
+        {
+          "afmt": "{{Front}}\n<hr id=answer>\n<div style='font-family: Arial; font-size: 20px;'>\n</div>\n{{Phonetic (Spanish)}}\n{{Audio}}\n<div style='font-family: Arial; font-size: 20px;'>{{Translation}}</div>\n",
+          "bafmt": "",
+          "bfont": "",
+          "bqfmt": "",
+          "bsize": 0,
+          "did": null,
+          "name": "Card 1",
+          "ord": 0,
+          "qfmt": "{{Front}}\n\n"
+        }
+      ],
+      "type": 0,
+      "vers": []
+    }
+  ],
+  "notes": [
+    {
+      "__type__": "Note",
+      "fields": [
+        "A, an",
+        "",
+        "[sound:A an.mp3]",
+        "<i>ey, en</i>",
+        "un, una"
+      ],
+      "guid": "t=s_zNz$BA",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Also",
+        "",
+        "[sound:also.mp3]",
+        "<i>also</i>",
+        "<div>también,&nbsp;además</div>"
+      ],
+      "guid": "bI<Oe?.4GW",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "big",
+        "",
+        "[sound:big.mp3]",
+        "<i>beg, o big</i>",
+        "grande"
+      ],
+      "guid": "o^c3^#:y@:",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "find",
+        "",
+        "[sound:find.mp3]",
+        "<i>faind</i>",
+        "encontrar"
+      ],
+      "guid": "Fk._:!5mU*",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "go",
+        "",
+        "[sound:go.mp3]",
+        "<i>gou</i>",
+        "ir"
+      ],
+      "guid": "Nn$agDFB{#",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "he",
+        "",
+        "[sound:he.mp3]",
+        "<i>hi</i>",
+        "él"
+      ],
+      "guid": "N8-]H0%%2c",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "am",
+        "",
+        "[sound:am.mp3]",
+        "<i>em</i>",
+        "soy"
+      ],
+      "guid": "u;IP{!&vmU",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "like",
+        "",
+        "[sound:like.mp3]",
+        "<i>laik</i>",
+        "gustar"
+      ],
+      "guid": "xijkCEvXo}",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "one",
+        "",
+        "[sound:one.mp3]",
+        "<i>huan</i>",
+        "uno"
+      ],
+      "guid": "QXt1x^iV&",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "new",
+        "",
+        "[sound:new.mp3]",
+        "<i>nu</i>",
+        "nuevo"
+      ],
+      "guid": "k7`n=vJ9S#",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "often",
+        "",
+        "[sound:often.mp3]",
+        "<i>aften, o aftn</i>",
+        "con frecuencia, muchas veces"
+      ],
+      "guid": "d.kfoECH~P",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "other",
+        "",
+        "[sound:other.mp3]",
+        "<i>athar, o athr</i>",
+        "otro"
+      ],
+      "guid": "J([!sN6FEC",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "place",
+        "",
+        "[sound:place.mp3]",
+        "<i>pleis</i>",
+        "lugar"
+      ],
+      "guid": "c?V`:(IIb>",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "so",
+        "",
+        "[sound:so.mp3]",
+        "<i>sou</i>",
+        "entonces"
+      ],
+      "guid": "Ds%Z~)SULa",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "tell",
+        "",
+        "[sound:tell.mp3]",
+        "<i>tel</i>",
+        "informar, decir"
+      ],
+      "guid": "vQ:R84;6)S",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "them",
+        "",
+        "[sound:them.mp3]",
+        "<i>dem</i>",
+        "ellos"
+      ],
+      "guid": "rG6OgS|21`",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "think",
+        "",
+        "[sound:think.mp3]",
+        "<i>dink</i>",
+        "pensar"
+      ],
+      "guid": "o}].hUWT[g",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "up",
+        "",
+        "[sound:up.mp3]",
+        "<i>ap</i>",
+        "arriba"
+      ],
+      "guid": "q.%N`T5I:r",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "what",
+        "",
+        "[sound:what.mp3]",
+        "<i>huat</i>",
+        "que"
+      ],
+      "guid": "CefQlODXCK",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "why",
+        "",
+        "[sound:why.mp3]",
+        "<i>huai</i>",
+        "por que"
+      ],
+      "guid": "wyz0mu;y`z",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "after",
+        "",
+        "[sound:after.mp3]",
+        "<i>eftar, o eftr</i>",
+        "despues de"
+      ],
+      "guid": "f0Qw=ahpal",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "always",
+        "",
+        "[sound:always.mp3]",
+        "<i>alweiz</i>",
+        "siempre"
+      ],
+      "guid": "F].9KsutAD",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "but",
+        "",
+        "[sound:but.mp3]",
+        "<u><i>bat</i></u>",
+        "pero"
+      ],
+      "guid": "xb:./:cxhy",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "first",
+        "",
+        "[sound:first.mp3]",
+        "<i>frst</i>",
+        "primero"
+      ],
+      "guid": "eGby9p5b-~",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "good",
+        "",
+        "[sound:good.mp3]",
+        "<i>gud</i>",
+        "bueno"
+      ],
+      "guid": "N<N%OU+zK:",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "hello",
+        "",
+        "[sound:hello.mp3]",
+        "<i>jelou</i>",
+        "hola"
+      ],
+      "guid": "zJ;c,sPm>(",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "if",
+        "",
+        "[sound:if.mp3]",
+        "<i>ef</i>",
+        "si"
+      ],
+      "guid": "Nx]>7Hn?[,",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "little",
+        "",
+        "[sound:little.mp3]",
+        "<i>lettl, o ledl</i>",
+        "pequeno"
+      ],
+      "guid": "JUL)5p_~%v",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "more",
+        "",
+        "[sound:more.mp3]",
+        "<i>mour</i>",
+        "mas"
+      ],
+      "guid": "P+=pa|RobX",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "no",
+        "",
+        "[sound:no.mp3]",
+        "<i>nou</i>",
+        "no"
+      ],
+      "guid": "t|cKA+HDxq",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "on",
+        "",
+        "[sound:on.mp3]",
+        "<i>an</i>",
+        "en, encima de, sobre"
+      ],
+      "guid": "l80)K@YjM!",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "our",
+        "",
+        "[sound:our.mp3]",
+        "<i>aur</i>",
+        "nuestro"
+      ],
+      "guid": "-sN;vL[jD",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "please",
+        "",
+        "[sound:please.mp3]",
+        "<i>pliiz</i>",
+        "por favor"
+      ],
+      "guid": "s3bs+~%zVg",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "some",
+        "",
+        "[sound:some.mp3]",
+        "<i>sam</i>",
+        "algunos"
+      ],
+      "guid": "f=~iZ19AU3",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "thank you",
+        "",
+        "[sound:thank you.mp3]",
+        "<i>deink yu</i>",
+        "gracias a ti"
+      ],
+      "guid": "jtO>SG`V9l",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "then",
+        "",
+        "[sound:then.mp3]",
+        "<i>den</i>",
+        "entonces"
+      ],
+      "guid": "JdJe.w{SPn",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "this",
+        "",
+        "[sound:this.mp3]",
+        "<i>des</i>",
+        "esto"
+      ],
+      "guid": "P;X;@4S=8y",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "us",
+        "",
+        "[sound:us.mp3]",
+        "<i>as</i>",
+        "nosotros"
+      ],
+      "guid": "t/nr%(tpIi",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "when",
+        "",
+        "[sound:when.mp3]",
+        "<i>huen</i>",
+        "cuando"
+      ],
+      "guid": "E}(v(CN:kf",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "with",
+        "",
+        "[sound:with.mp3]",
+        "<i>hued</i>",
+        "con"
+      ],
+      "guid": "OiD,|_#1+e",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "again",
+        "",
+        "[sound:again.mp3]",
+        "<i>agen</i>",
+        "otra vez"
+      ],
+      "guid": "Agp[4yx:Uh",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "and",
+        "",
+        "[sound:and.mp3]",
+        "<i>end</i>",
+        "y"
+      ],
+      "guid": "BU~tv6{YVY",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "can",
+        "",
+        "[sound:can.mp3]",
+        "<i>ken</i>",
+        "puede"
+      ],
+      "guid": "I#^]aPe311",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "for",
+        "",
+        "[sound:for.mp3]",
+        "<i>four, o for</i>",
+        "por"
+      ],
+      "guid": "og!*Db~%d#",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "good-bye",
+        "",
+        "[sound:goodbye.mp3]",
+        "<i>gud bay</i>",
+        "adios, chao"
+      ],
+      "guid": "gWL|VF#hgP",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "here",
+        "",
+        "[sound:here.mp3]",
+        "<i>hier, o hir</i>",
+        "aqui"
+      ],
+      "guid": "Bvm]W:)0|*",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "in",
+        "",
+        "[sound:in.mp3]",
+        "<i>en</i>",
+        "en, a dentro de"
+      ],
+      "guid": "BYVS-goUZj",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "love",
+        "",
+        "[sound:love.mp3]",
+        "<i>laf, o lav</i>",
+        "amor"
+      ],
+      "guid": "J}gBRtWid_",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "most",
+        "",
+        "[sound:most.mp3]",
+        "<i>moust, o most</i>",
+        "más"
+      ],
+      "guid": "B#vmgu-Uu5",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "not",
+        "",
+        "[sound:not.mp3]",
+        "<i>nat</i>",
+        "no es"
+      ],
+      "guid": "ARZ3}D,#h9",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "out",
+        "",
+        "[sound:out.mp3]",
+        "<i>aut</i>",
+        "afuera"
+      ],
+      "guid": "M#hdK6pcfT",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "same",
+        "",
+        "[sound:same.mp3]",
+        "<i>seim</i>",
+        "misma"
+      ],
+      "guid": "yy]E(LY[|/",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "sometimes",
+        "",
+        "[sound:sometimes.mp3]",
+        "<i>samtaims</i>",
+        "a veces"
+      ],
+      "guid": "sIi^g7P#]K",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "that",
+        "",
+        "[sound:that.mp3]",
+        "<i>dat, o det</i>",
+        "ese, que, a que"
+      ],
+      "guid": "x:-:|#eoy(",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "there is",
+        "",
+        "[sound:there is.mp3]",
+        "<i>der ez</i>",
+        "es, hay"
+      ],
+      "guid": "Mm$Z7~~4$4",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "time",
+        "",
+        "[sound:time.mp3]",
+        "<i>taim</i>",
+        "tiempo, hora"
+      ],
+      "guid": "Po)k=eeL9f",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "use",
+        "",
+        "[sound:use.mp3]",
+        "<i><u>lluz</u></i>",
+        "usar"
+      ],
+      "guid": "Qe]}$mL)xs",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "where",
+        "",
+        "[sound:where.mp3]",
+        "<i>huer</i>",
+        "donde"
+      ],
+      "guid": "B=7H#ey{#<",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "yes",
+        "",
+        "[sound:yes.mp3]",
+        "<i>lles</i>",
+        "sí"
+      ],
+      "guid": "N^PYh0iF|D",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "all",
+        "",
+        "[sound:all.mp3]",
+        "<i>al</i>",
+        "todo"
+      ],
+      "guid": "FPD|F;qyQ!",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "because",
+        "",
+        "[sound:because.mp3]",
+        "<i>bikaz</i>",
+        "porque"
+      ],
+      "guid": "jjJdYyY+$x",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "come",
+        "",
+        "[sound:come.mp3]",
+        "<i>kam</i>",
+        "venir"
+      ],
+      "guid": "AM[Ab~8sVF",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "friend",
+        "",
+        "[sound:friend.mp3]",
+        "<i>frend</i>",
+        "amigo"
+      ],
+      "guid": "l)pM|Kr$K0",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "happy",
+        "",
+        "[sound:happy.mp3]",
+        "<i>jepi, o japi</i>",
+        "feliz"
+      ],
+      "guid": "N?yY{hSjlr",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "how",
+        "",
+        "[sound:how.mp3]",
+        "<i>jau</i>",
+        "cómo"
+      ],
+      "guid": "q5aCQf*vU2",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "know",
+        "",
+        "[sound:know.mp3]",
+        "<i>nou</i>",
+        "saber, conocer"
+      ],
+      "guid": "cb[;|L,yYy",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "make",
+        "",
+        "[sound:make.mp3]",
+        "<i>meik</i>",
+        "hacer, crear"
+      ],
+      "guid": "iAXIaep}]Y",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "much",
+        "",
+        "[sound:much.mp3]",
+        "<i>mach, o match</i>",
+        "mucho"
+      ],
+      "guid": "C_l%##N2*b",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "now",
+        "",
+        "[sound:now.mp3]",
+        "<i>nau</i>",
+        "ahora"
+      ],
+      "guid": "Ihj[%^[1Ye",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "only",
+        "",
+        "[sound:only.mp3]",
+        "<i>ounli, o onli</i>",
+        "solo"
+      ],
+      "guid": "ca16E2a:3%",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "over",
+        "",
+        "[sound:over.mp3]",
+        "<i>ouvr, o oufr</i>",
+        "encima"
+      ],
+      "guid": "Aplq7oz@!3",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "see",
+        "",
+        "[sound:see.mp3]",
+        "<i>si</i>",
+        "ver"
+      ],
+      "guid": "f?Nj!n=<K3",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "still",
+        "",
+        "[sound:still.mp3]",
+        "<i>stel</i>",
+        "todavía, tranquillo"
+      ],
+      "guid": "me,JFHQm(p",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "the",
+        "",
+        "[sound:the.mp3]",
+        "<i>da</i>",
+        "el, la"
+      ],
+      "guid": "c)<B6tW{>r",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "they",
+        "",
+        "[sound:they.mp3]",
+        "<i>dey</i>",
+        "ellos, ellas"
+      ],
+      "guid": "JBc/v>n19e",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "to",
+        "",
+        "[sound:to.mp3]",
+        "<i>tu</i>",
+        "a, para"
+      ],
+      "guid": "igWhgh<cXW",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "very",
+        "",
+        "[sound:very.mp3]",
+        "<i>veri, o feri</i>",
+        "muy, mucho"
+      ],
+      "guid": "m(SoPB.l]e",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "which",
+        "",
+        "[sound:which.mp3]",
+        "<i>huech</i>",
+        "cual"
+      ],
+      "guid": "cX9N,o7hj+",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "you",
+        "",
+        "[sound:you.mp3]",
+        "<i>llu</i>",
+        "tu, usted"
+      ],
+      "guid": "OE[Xs~u4)C",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "almost",
+        "",
+        "[sound:almost.mp3]",
+        "<i>almost, o almoust</i>",
+        "casi"
+      ],
+      "guid": "MzWJTiCl~[",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "before",
+        "",
+        "[sound:before.mp3]",
+        "<i>bifour, o bifor</i>",
+        "antes de"
+      ],
+      "guid": "JzzWcBcQMJ",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "either",
+        "",
+        "[sound:either.mp3]",
+        "<i>idr o, aidr</i>",
+        "o"
+      ],
+      "guid": "BIqHWZEgT[",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "from",
+        "",
+        "[sound:from.mp3]",
+        "<i>fram</i>",
+        "de"
+      ],
+      "guid": "f!X1N?>1)g",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "have",
+        "",
+        "[sound:have.mp3]",
+        "<i>hav, o haf</i>",
+        "tener"
+      ],
+      "guid": "cE+{JF[D^)",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "I",
+        "",
+        "[sound:I.mp3]",
+        "<i>ai, o hay</i>",
+        "yo"
+      ],
+      "guid": "E)`C^za;JS",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "last",
+        "",
+        "[sound:last.mp3]",
+        "<i>last, o lest</i>",
+        "ultimo"
+      ],
+      "guid": "u8U#$)36r6",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "many",
+        "",
+        "[sound:many.mp3]",
+        "<i>meni</i>",
+        "muchos"
+      ],
+      "guid": "G]mG0ulq>@",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "my",
+        "",
+        "[sound:my.mp3]",
+        "<i>may</i>",
+        "mi"
+      ],
+      "guid": "EIV.Tgg_~F",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "of",
+        "",
+        "[sound:of.mp3]",
+        "<i>av, o af</i>",
+        "de"
+      ],
+      "guid": "hs%b#w.6kG",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "or",
+        "",
+        "[sound:or.mp3]",
+        "<i>our, o or</i>",
+        "o"
+      ],
+      "guid": "x({=9@>7x5",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "people",
+        "",
+        "[sound:people.mp3]",
+        "<i>pipo,o pipl</i>",
+        "gente, personas"
+      ],
+      "guid": "J17OLd5Lw)",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "she",
+        "",
+        "[sound:she.mp3]",
+        "<i>shi</i>",
+        "ella"
+      ],
+      "guid": "t1+1k/8lDI",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "such",
+        "",
+        "[sound:such.mp3]",
+        "<i>sach, o satch</i>",
+        "tal, tanto, semejante"
+      ],
+      "guid": "Kd]P[xm~et",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "their",
+        "",
+        "[sound:their.mp3]",
+        "<i>der</i>",
+        "sus"
+      ],
+      "guid": "c`$0;2[JFP",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "thing",
+        "",
+        "[sound:thing.mp3]",
+        "<i>ding</i>",
+        "cosa, asunto"
+      ],
+      "guid": "J&wVw#J/NG",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "under",
+        "",
+        "[sound:under.mp3]",
+        "<i>andr, o andar</i>",
+        "bajo, debajo"
+      ],
+      "guid": "d1ol)]Vv$^",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "we",
+        "",
+        "[sound:we.mp3]",
+        "<i>hui</i>",
+        "nosotros"
+      ],
+      "guid": "D={%{xi(uM",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "who",
+        "",
+        "[sound:who.mp3]",
+        "<i>ju</i>",
+        "quien"
+      ],
+      "guid": "C~N[zKyayg",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "your",
+        "",
+        "[sound:your.mp3]",
+        "<i>llour, o llor</i>",
+        "tu, su"
+      ],
+      "guid": "B(fay9=6EP",
+      "note_model_uuid": "34585698-87ef-11ec-99f6-6d42315f0208",
+      "tags": []
+    }
+  ]
+}
